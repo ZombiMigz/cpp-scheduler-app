@@ -1,2 +1,2 @@
 # cpp-scheduler-client
-Web/Mobile application for CPP Scheduler
+Mobile application for CPP Scheduler
